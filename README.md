@@ -1,4 +1,9 @@
-### Hi there 👋
+# Juliannacruz cal poly github
+##projects:
+
+1. [retail analytics] (https://linkmehere.com) 
+3. Business intelligence
+4. data science 
 
 <!--
 **juliannacruz/juliannacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
