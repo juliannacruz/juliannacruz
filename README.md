@@ -1,7 +1,7 @@
 # Juliannacruz cal poly github
 ##projects:
 
-1. [retail analytics] (https://linkmehere.com) 
+1. [retail analytics](https://linkmehere.com) 
 3. [Business intelligence](https://github.com/juliannacruz/juliannacruz/blob/main/Project_5_6%2C_warmup_3100_ulta_quartiles.ipynb) 
 4. data science 
 
